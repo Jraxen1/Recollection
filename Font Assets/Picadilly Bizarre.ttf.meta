@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3cb9244eb8ef045c8b93f0be33929371
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Picadilly
+  fontNames:
+  - Picadilly
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f7e0c7302cb3e4c23938d8b81f8d9234, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
